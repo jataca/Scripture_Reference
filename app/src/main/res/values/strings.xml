@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello Jacob!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="title">Create and display a new Activity</string>
+    <string name="btnClick">Click me !</string>
+    <string name="title_activity_display_message">My Message</string>
+</resources>
